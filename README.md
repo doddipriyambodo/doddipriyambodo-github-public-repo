@@ -6,4 +6,6 @@ inspired from: https://github.com/aws-samples/aws-gamelift-sample
 PS:
 - Some of the folder are applications from other open source repository, you can check their link to get the updated codes. I am creating this source separately, since I did a couple of changes on the codes to meet my custom requirements.
 - I am using 4 Souce Code Repo as my daily use: GitHub. BitBucket, GitLab, and of course... AWS CodeCommit
-- I am using Atlassian Sourcetree and Git commands as my client tools
+- I am using GitLab for my personal development project (private & public) = https://gitlab.com/doddipriyambodo while maintaining GitHub for my old projects (private & public) and fork projects. 
+- I am using Atlassian Sourcetree and Git commands as my client tools. Also using StackEdit for my note tool.
+- Let's Go BUILD!
